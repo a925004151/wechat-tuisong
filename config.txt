@@ -1,21 +1,21 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "###########",
+"app_id": "wx67bb210f38fc1ea0",
 # 公众号appSecret
-"app_secret": "###########",
+"app_secret": "ecd5270f6c34410ebb687980ba73cf05",
 # 模板消息id
-"template_id": "###########",
+"template_id": "sEAIZrL3zQMBGgHuzynXS_a8fFWAJqtQ5j61wxxpiic",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["###########"],
+"user": ["oaoJU6gRAxRKx5CfLN-K3GE8Igj4"],
  
 # 信息配置
 # 和风天气apikey
-"weather_key": "###########",
+"weather_key": "13075f5288a44cc89c19b79f6cc76783",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region": "###########",
+"region": "永州市新田县",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "###########", "birthday": "2004-04-08"},
+"birthday1": {"name": "李剑", "birthday": "2002-03-10"},
 # 生日2
 "birthday2": {"name": "东阁", "birthday": "2018-08-15"},
 # 在一起的日子，格式同上，暂不不支持农历
@@ -25,6 +25,3 @@
 # 金句英文
 "note_en": ""
 }
-
-#更多资源学习请访问东阁：https://oo1o.cn
-#Ps:当前有0撸70元现金项目，免费上车
